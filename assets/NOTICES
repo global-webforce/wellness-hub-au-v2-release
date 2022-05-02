@@ -7613,6 +7613,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 ez_core
 ez_dashboard
+ez_flutter_form_builders
 ez_ui
 
 TODO: Add your license here.
